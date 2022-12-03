@@ -10,7 +10,8 @@
 
 - 🔭 I’m currently working on **graphic design**
 
-- 👨‍💻 All of my projects are available at [(https :linktr.ee/simplified_learner`)]((https :linktr.ee/simplified_learner`))
+- 👨‍💻 All of my projects are available at
+- (https :linktr.ee/simplified_learner`)
 
 - ⚡ Fun fact **I am funny😅😎**
 
