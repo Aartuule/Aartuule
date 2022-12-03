@@ -1,4 +1,3 @@
- <img src="https://thumbs.gfycat.com/EcstaticSilverBrocketdeer-size_restricted.gif"
 
 <h1 align="center">Hi 👋, I'm Abdikani ahmeth</h1>
 <h3 align="center">A passionate software developer from Somaliland</h3>
